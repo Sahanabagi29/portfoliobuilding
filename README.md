@@ -6,3 +6,6 @@ Hi, I am Sahana Bagi, a 3rd-semester Computer Science and Engineering student. I
 Learning C, Java and Python programming
 Interested in web development and technology
 Goal: Build real-world projects and contribute to open source
+## Projects
+
+- Credit Card Fraud Detection: A machine learning project to identify potentially fraudulent transactions.
