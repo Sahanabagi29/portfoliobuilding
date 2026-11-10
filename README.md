@@ -11,7 +11,7 @@ Goal: Build real-world projects and contribute to open source
 - Credit Card Fraud Detection: A machine learning project to identify potentially fraudulent transactions.
 ## Collaboration Log
 
-- Partner Name: Your friend's name
-- GitHub Username: Your friend's username
-- What we built: Added greet() function in hello.c.
-- What I learned: GitLens helps track code history and Live Share allows real-time collaboration.
+- **Partner Name:** Shubashree07
+- **GitHub Username:** Shubashree07
+- **What we built:** Created a `greet()` function in `hello.c` to display a welcome message.
+- **What I learned:** I learned how GitLens tracks commit history and how Live Share allows developers to collaborate and edit code in real time.
