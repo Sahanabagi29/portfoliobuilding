@@ -12,6 +12,6 @@ Goal: Build real-world projects and contribute to open source
 ## Collaboration Log
 
 - **Partner Name:** Shubashree07
-- **GitHub Username:** Shubashree07
+- **GitHub Username:** Sahanabagi29
 - **What we built:** Created a `greet()` function in `hello.c` to display a welcome message.
 - **What I learned:** I learned how GitLens tracks commit history and how Live Share allows developers to collaborate and edit code in real time.
